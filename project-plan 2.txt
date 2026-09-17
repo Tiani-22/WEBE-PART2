@@ -1,0 +1,57 @@
+WEBE PART 1: PROJECT PLAN
+Student Name: Tiani Lelaka
+Student Number: ST10530238
+Organization: Logan`s Coffee Co.
+
+1.ORGANISATION OVERVIEW
+Logan`s Coffee Co is a local coffee shop located in Pretoria CBD , established in 2024.
+HISTORY: The shop started to provide quality coffee and comfortable workspace for students and professionals in the city,
+MISSION: "To fuel the city  with great coffee and good vibes"
+VISSION: "To become Pretoria`s top spot for coffee, connection and community."
+TARGET AUDIENCE: Students and workers aged 18-35 mostly based around Pretoria who need affordable coffee, Wi-Fi, and a place to study or have meetings.
+
+2.WEBSITE GOALS AND OBJECTIVES
+Goal 1: Increase foot traffic to the physical store by 30%
+Goal 2: Provide an easy way for customers to view the menu and prices online
+Goal 3: Allow customers to connect the shop for enquires and bookings
+KPIS:
+-400 websites visits per month
+-25 contact/enquiry form submissions per month
+
+3.CURRENT WEBSITE ANALYSIS
+The organisation currently does not have a website .This is a weakness because potential customers cannot find information about the menu, location or opening hours online. The opportunity is to build a new responsive website from scratch to establish an online presence.
+
+4.PROPOSED WEBSITE FEATURES AND FUNTIONALITY
+The website will have 5 main pages: Home, About, Services/Menu, Gallery, Contact, and Enquiry.
+Key Features:
+-Responsive design for mobile and desktop
+-Online menu with prices and images
+-Contact form for enquires
+-Google Maps integration for location
+-Images gallery of products
+-Fast loading and SEO optimizes
+
+5.DESIGN AND USER EXPERIENCE
+Colour Scheme: Brown, Cream, Dark Brown to reflect coffee and warmth 
+Typography: Clear, readable fonts. Heading bold, body text simple
+Layout: Clean, mobile-first design with large images and clear navigation
+UX: Easy to find menu and contact info.
+Fast loading. All images will have alt text.
+
+6.TIMELINE AND MILESTONES
+WEEK 1:Research + html structure for all pages
+Week 2: CSS Styling + Responsive design
+Week 3: Add content + test forms + Debug
+Week4: Final testing + submission
+
+7.BUDGET
+Development: R0-Student project
+Hosting: R200 per year
+Domain: R150 per year
+TOTAL Estimation Cost: R350 per year
+
+8.CONCLUSION
+This website will help Logan`s Coffee Co. attract more customers in Pretoria CBD by providing menu information, location, ane contact details online 24/7.
+
+9.REFENCES
+Images sourced from original photography fonts from google fonts.
